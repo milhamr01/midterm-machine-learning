@@ -15,8 +15,8 @@ Each notebook includes clear explanations, code comments, preprocessing steps, m
 ## Student Identification
 
 - **Name:** MUHAMMAD ILHAM RAYANDA
-- **Class:** [Fill your class]
-- **NIM:** [Fill your NIM]
+- **Class:** [TK-46-GAB]
+- **NIM:** [1103223199]
 - **Program:** S1 Teknik Komputer
 
 ---
