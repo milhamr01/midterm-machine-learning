@@ -234,7 +234,7 @@ Before running the notebooks, make sure all datasets are uploaded to the correct
 3. Make sure the required CSV dataset is available in `/content/drive/MyDrive/`.
 4. Run all cells from top to bottom.
 5. Check that all outputs are generated, including tables, plots, metrics, and interpretations.
-6. Save the executed notebook before uploading it to GitHub.
+6. If you are not using Colab Pro, it is recommended to disconnect and delete the runtime after finishing each notebook. Please run the notebooks one by one, and only move to the next notebook after the current one has finished running.
 
 Recommended execution order:
 
